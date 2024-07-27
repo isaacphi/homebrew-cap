@@ -1,8 +1,8 @@
 class Cap < Formula
   desc "cap code assistant program"
   homepage "https://github.com/isaacphi/codeassistantprogram"
-  url "https://github.com/isaacphi/codeassistantprogram/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "24d4204e92c47779859bd04487846a31afe56973bbaac675b32fee61ef9694bd"
+  url "https://github.com/isaacphi/codeassistantprogram/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "275c25213a8fe86d548401520be023472a24ce46a65d39592b6d8689a748de95"
   license "MIT"
 
   depends_on "go" => :build
